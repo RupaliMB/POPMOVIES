@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+    <color name="colorPrimary">#212d3b</color>
+    <color name="colorPrimaryDark">#161d27</color>
+    <color name="colorRating">#FBC02D</color>
+    <color name="colorAccent">#52a2f7</color>
+
+    <color name="grey">#DDD6D6</color>
+
+
+    <color name="darkgray">#A9A9A9</color>
+    <color name="lightgray">#E7E7E7</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+
+    <color name="colorPinkProgressBarStart">#ffffff</color>
+    <color name="colorPinkProgressBarEnd">#B40107</color>
+    <color name="textcolor">#000000</color>
+    <color name="whitecolor">#ffffff</color>
+    <color name="blockColor">#E2E3E5</color>
+    <color name="btnColor">#F6B621</color>
+    <color name="welcomScreenCaptionColor">#BA5F27</color>
+    <color name="toolbarcolor">#f15159</color>
+    <color name="circleBorder">#AD1C22</color>
+    <color name="tabselectedcolor">#B9B6B6</color>
+    <color name="footercolor">#FF6D00</color>
+    <color name="color_green">#00A000</color>
+    <color name="color_gray">#E7E7E7</color>
+    <color name="color_transperent">#00FFFFFF</color>
+    <color name="color_tabbg">#D5D3D3</color>
+    <color name="color_gray_light">#C1C1C1</color>
+    <color name="color_gray_dark">#A0A0A0</color>
+    <color name="color_gray_darker">#6B6868</color>
+    <color name="color_green_sales">#45D458</color>
+    <color name="color_orange_sales">#FFB820</color>
+    <color name="color_sky_blue">#01D2D7</color>
+    <color name="color_light_green_sales">#B2DA39</color>
+    <color name="hint_enter_note">#89c3c3c3</color>
+
+    <!-- Screens background color-->
+
+    <color name="bg_screen1">#f64c73</color>
+    <color name="bg_screen2">#20d2bb</color>
+    <color name="bg_screen3">#3395ff</color>
+    <color name="bg_screen4">#c873f4</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_dark_screen1">#d1395c</color>
+    <color name="dot_dark_screen2">#14a895</color>
+    <color name="dot_dark_screen3">#2278d4</color>
+    <color name="dot_dark_screen4">#a854d4</color>
+
+    <!-- dots active colors -->
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen5">#CDDFF3</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+
+    <color name="skyBlue">#FFF</color>
+
+    <color name="blue">#5067EB</color>
+
+    <color name="tabTextColor">#ffffff</color>
+
+    <color name="tabSelectedTextColor">#ffffff</color>
+
+    <color name="tabIndicatorColor">#ffffff</color>
+
+    <color name="semiTransparentWhite">#40FFFFFF</color>
+    <color name="semiTransparentBlack">#10000000</color>
+    <color name="transperantwhite">#8033b5e5</color>
+
+    <color name="main_blue_stroke_color">#205ec7</color>
+
+</resources>
